@@ -2,3 +2,4 @@
 //2 2007-11-17palettes.thor
 
 1 test.thor
+2 test2.thor
