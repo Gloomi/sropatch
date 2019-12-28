@@ -2,4 +2,6 @@
 //2 2007-11-17palettes.thor
 
 1
-2 2019-12-28prere.thor
+2
+3 22019-12-28pre-re_grf.thor
+4 2019-12-28info.thor
