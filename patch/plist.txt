@@ -5,3 +5,8 @@
 2
 3 2019-12-28pre-re_grf.thor
 4 2019-12-28info.thor
+5 2019-12-28textures.thor
+6 2019-12-28alberta.thor
+7 2019-12-28izlude-morocc.thor
+8 2019-12-28prontera.thor
+9 2019-12-28misc.thor
