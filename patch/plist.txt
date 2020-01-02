@@ -13,3 +13,4 @@
 10 2019-12-28skills.thor
 11 2019-12-28skills2.thor
 12 2020-01-02iteminfo.thor
+12 2020-01-02iteminfo2.thor
